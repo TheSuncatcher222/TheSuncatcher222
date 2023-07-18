@@ -17,7 +17,7 @@
   <a href="https://www.djangoproject.com/">
     <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="70" height="70"/>
   </a>
-  <a href="https://www.postgresql.com/">
+  <a href="https://www.postgresql.org/">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="70" height="70"/>
   </a>
   <a href="https://www.sqlite.org/">
@@ -29,16 +29,16 @@
   <a href="https://www.nginx.org/">
     <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="70" height="70"/>
   </a>
-  <a href="https://www.docker.org/">
+  <a href="https://www.docker.com/">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="70" height="70"/>
   </a>
   <a href="https://www.linux.org/">
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="70" height="70"/>
   </a>
-  <a href="https://www.ubuntu.org/">
+  <a href="https://www.ubuntu.com/">
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="70" height="70"/>
   </a>
-  <a href="https://www.github.org/">
+  <a href="https://www.github.com/">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="70" height="70"/>
   </a>
   <a href="https://www.visualstudio.com/">
