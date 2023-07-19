@@ -2,12 +2,12 @@
   <img src="https://www.github.com/Altair21817/altair21817/assets/36377190/5ce83454-5578-4f12-98b6-3be5533ed70b"/>
   <br>
   <h1>
-   Hello there, nice to meet You <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+    Hello there, nice to meet You <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
   </h1>
- <h3>
-  My name is Kirill, and I'm a junior backend developer
- </h3>
- <br>
+  <h3>
+    My name is Kirill, and I'm a junior backend developer
+  </h3>
+  <br>
 </div>
 
 <div id="body" align="center">
