@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450", height="250"/>
+  <img src="https://www.github.com/Altair21817/altair21817/assets/36377190/5ce83454-5578-4f12-98b6-3be5533ed70b"/>
   <br>
   <h1>
    Hello there, nice to meet You <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
