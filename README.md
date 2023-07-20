@@ -53,4 +53,4 @@
 - 👯 I’m looking to collaborate with junior frontend on my web-application
 - 📫 How to reach me: altair21817@gmail.com or https://t.me/Altair21817
 - ☀️ What does inspire me: work on my projects, review resaults
-- ⚡ Fun fact: I helped my parents choose my name when I was just 3 days old (seriously!)
+- ⚡ Fun fact: I chose my name when I was just 3 days old (seriously!)
