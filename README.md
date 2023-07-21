@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.github.com/Altair21817/altair21817/assets/36377190/5ce83454-5578-4f12-98b6-3be5533ed70b"/>
+  <img src="https://www.github.com/TheSuncatcher222/TheSuncatcher222/assets/36377190/5ce83454-5578-4f12-98b6-3be5533ed70b"/>
   <br>
   <h1>
     Hello there, nice to meet You <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
@@ -51,6 +51,6 @@
 - 🔭 I’m currently working on web-application with virtyal board game (repository is private for now..)
 - 🌱 I’m currently learning backend develop on DjangoRestFramework and use SQL
 - 👯 I’m looking to collaborate with junior frontend on my web-application
-- 📫 How to reach me: altair21817@gmail.com or https://t.me/Altair21817
+- 📫 How to reach me: TheSuncatcher222@gmail.com or https://t.me/TheSuncatcher222
 - ☀️ What does inspire me: work on my projects, review resaults
 - ⚡ Fun fact: I chose my name when I was just 3 days old (seriously!)
