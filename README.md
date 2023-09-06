@@ -12,37 +12,40 @@
 
 <div id="body" align="center">
   <a href="https://www.python.org/">
-    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="70" height="70"/>
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="70" height="70"/>
   </a>
   <a href="https://www.djangoproject.com/">
-    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="70" height="70"/>
+    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="70" height="70"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" width="70" height="70"/>
   </a>
   <a href="https://www.postgresql.org/">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="70" height="70"/>
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="70" height="70"/>
   </a>
   <a href="https://www.sqlite.org/">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="70" height="70"/>
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="70" height="70"/>
   </a>
   <a href="https://www.gunicorn.org/">
-    <img src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-icon.svg" alt="gunicorn" width="70" height="70"/>
+    <img src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-icon.svg" width="70" height="70"/>
   </a>
   <a href="https://www.nginx.org/">
-    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="70" height="70"/>
+    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="70" height="70"/>
   </a>
   <a href="https://www.docker.com/">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="70" height="70"/>
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="70" height="70"/>
   </a>
   <a href="https://www.linux.org/">
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="70" height="70"/>
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="70" height="70"/>
   </a>
   <a href="https://www.ubuntu.com/">
-    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="70" height="70"/>
+    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="70" height="70"/>
   </a>
   <a href="https://www.github.com/">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="70" height="70"/>
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="70" height="70"/>
   </a>
   <a href="https://www.visualstudio.com/">
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="70" height="70"/>
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="70" height="70"/>
   </a>
 </div>
 
