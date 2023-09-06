@@ -49,7 +49,7 @@
 <hr>
 
 - 🔭 I’m currently working on web-application with virtyal board game (repository is private for now..)
-- 🌱 I’m currently learning aync backend development on FastAPI and SQLAlchemy
+- 🌱 I’m currently learning async backend development on FastAPI and SQLAlchemy
 - 👯 I’m looking to collaborate with junior frontend on my web-application
 - 📫 How to reach me: TheSuncatcher222@gmail.com or https://t.me/TheSuncatcher222
 - ☀️ What does inspire me: work on my projects, review resaults
