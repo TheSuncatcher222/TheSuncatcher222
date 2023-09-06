@@ -35,9 +35,6 @@
   <a href="https://www.docker.com/">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="70" height="70"/>
   </a>
-  <a href="https://www.linux.org/">
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="70" height="70"/>
-  </a>
   <a href="https://www.ubuntu.com/">
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="70" height="70"/>
   </a>
