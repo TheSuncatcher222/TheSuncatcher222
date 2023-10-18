@@ -20,6 +20,9 @@
   <a href="https://fastapi.tiangolo.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" width="70" height="70"/>
   </a>
+  <a href="https://docs.celeryq.dev/en/stable/">
+    <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/celery.svg" width="70" height="70"/>
+  </a>
   <a href="https://www.postgresql.org/">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="70" height="70"/>
   </a>
@@ -40,9 +43,6 @@
   </a>
   <a href="https://www.github.com/">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="70" height="70"/>
-  </a>
-  <a href="https://www.visualstudio.com/">
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="70" height="70"/>
   </a>
 </div>
 
