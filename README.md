@@ -48,9 +48,7 @@
 
 <hr>
 
-- 🔭 I’m currently working on web-application with virtyal board game (repository is private for now..)
-- 🌱 I’m currently evolving with async backend on FastAPI and SQLAlchemy
-- 👯 I’m looking to collaborate with junior UX/UI on my web-application
+- 🌱 I’m currently working on production web-application with async backend on FastAPI, SQLAlchemy and Asyncpg driver
 - 📫 How to reach me: TheSuncatcher222@gmail.com or https://t.me/TheSuncatcher222
 - ☀️ What does inspire me: work on my projects, review resaults
 - ⚡ Fun fact: I chose my name when I was just 3 days old (seriously!)
