@@ -14,11 +14,11 @@
   <a href="https://www.python.org/">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="70" height="70"/>
   </a>
-  <a href="https://www.djangoproject.com/">
-    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="70" height="70"/>
-  </a>
   <a href="https://fastapi.tiangolo.com/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" width="70" height="70"/>
+  </a>
+  <a href="https://www.djangoproject.com/">
+    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="70" height="70"/>
   </a>
   <a href="https://docs.celeryq.dev/en/stable/">
     <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/celery.svg" width="70" height="70"/>
@@ -26,17 +26,17 @@
   <a href="https://www.postgresql.org/">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="70" height="70"/>
   </a>
-  <a href="https://www.sqlite.org/">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="70" height="70"/>
+  <a href="https://www.rabbitmq.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" width="70" height="70"/>
   </a>
-  <a href="https://www.gunicorn.org/">
-    <img src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-icon.svg" width="70" height="70"/>
+  <a href="https://www.docker.com/">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="70" height="70"/>
   </a>
   <a href="https://www.nginx.org/">
     <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="70" height="70"/>
   </a>
-  <a href="https://www.docker.com/">
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="70" height="70"/>
+  <a href="https://www.gunicorn.org/">
+    <img src="https://www.vectorlogo.zone/logos/gunicorn/gunicorn-icon.svg" width="70" height="70"/>
   </a>
   <a href="https://www.ubuntu.com/">
     <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="70" height="70"/>
